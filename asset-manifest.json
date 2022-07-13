@@ -1,0 +1,23 @@
+{
+  "main.css": "/static/css/main.0fc4a8e9.chunk.css",
+  "main.js": "/static/js/main.d5f5cfb0.chunk.js",
+  "main.js.map": "/static/js/main.d5f5cfb0.chunk.js.map",
+  "static/js/1.42c91446.chunk.js": "/static/js/1.42c91446.chunk.js",
+  "static/js/1.42c91446.chunk.js.map": "/static/js/1.42c91446.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/media/html.png": "/static/media/html.a80a9001.png",
+  "static/media/css.png": "/static/media/css.cf71a98c.png",
+  "static/media/javascript.png": "/static/media/javascript.68777e97.png",
+  "static/media/react.png": "/static/media/react.1b288084.png",
+  "static/media/node.png": "/static/media/node.4380e99d.png",
+  "static/media/aws.png": "/static/media/aws.416f4cad.png",
+  "static/media/github.png": "/static/media/github.0ceb738c.png",
+  "static/media/mongo.png": "/static/media/mongo.8c1a6705.png",
+  "static/media/firebase.png": "/static/media/firebase.80683bb1.png",
+  "static/media/tailwind.png": "/static/media/tailwind.4d88ca03.png",
+  "static/css/main.0fc4a8e9.chunk.css.map": "/static/css/main.0fc4a8e9.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.024a485af2dff03d9f169ea01c3ee8ae.js": "/precache-manifest.024a485af2dff03d9f169ea01c3ee8ae.js",
+  "service-worker.js": "/service-worker.js"
+}
